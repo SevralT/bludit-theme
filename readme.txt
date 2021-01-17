@@ -1,3 +1,5 @@
-It couldn't be better.
+This is simple bludit theme from my blog with global menu and other my web-site feutures.
 
-Live demo: https://oldpc.mrcyjanek.net/blog/why-does-this-website-look-like-this
+You can clone this theme and change colours and links, menu and design.
+
+Live demo: https://sevralt.ml/blog
